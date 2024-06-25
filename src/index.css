@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root{
+    padding-top: 5rem;
+    overflow: hidden;
+    font-family: Andika sans-serif;
+    display: flex;
+    font-family: 'Andika';
+    
+}
+body{
+    overflow: hidden;
+}
